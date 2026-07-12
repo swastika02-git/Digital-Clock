@@ -28,7 +28,8 @@ digital-clock/
 
 ## 📸 Preview
 
-*Add a screenshot of your digital clock here.*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2b400c4-dc88-434b-837a-e7fc1ec41e69" />
+
 
 ## 📖 What I Learned
 
