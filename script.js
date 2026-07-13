@@ -27,9 +27,6 @@ function updateClock(){
 }    
 updateClock();
 setInterval(updateClock,1000);
-/*setInterval(function(){
-    updateClock();
-},1000);*/
 function check(k){
     if(k<10){
         k="0"+k;
